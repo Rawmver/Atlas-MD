@@ -1,5 +1,5 @@
 {
-  "name": "Atlas-MD",
+  "name": "LucifER",
   "description": "The future of WhatsApp bots now with plugin support.",
   "keywords": [
     "bot",
@@ -15,7 +15,7 @@
     "md-bot"
   ],
   "website": "https://github.com/FantoX001/Atlas-MD#readme",
-  "repository": "https://github.com/FantoX001/Atlas-MD.git",
+  "repository": "https://github.com/Rawmver/Atlas-MD.git",
   "logo": "https://graph.org/file/02abf0fd8fc2a13cc67a1.jpg",
   "success_url": "/",
   "env": {
